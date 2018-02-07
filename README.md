@@ -15,7 +15,7 @@ Type the following in the terminal.
 
 `git clone https://github.com/faizann24/XssPy/` /opt/xsspy
 
-The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "pip install mechanize" in the terminal.
+The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "python get-pip.py","pip install mechanize" in the terminal.
 
 # Usage: 
 `python XssPy.py website.com` (Do not write www.website.com OR http://www.website.com)
